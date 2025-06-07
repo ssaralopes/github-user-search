@@ -1,3 +1,6 @@
+// Código desenvolvido em Aula pelo Professor da Disciplina de Desenvolvimento Mobile
+// A resolução do que foi proposto para esta Atividade está no App.js deste Projeto :)
+
 import React from "react";
 import { View, StyleSheet, Text, TextInput, Button } from "react-native";
 
