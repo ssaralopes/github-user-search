@@ -74,11 +74,12 @@ A proposta visual deste projeto foi pensada para ir além da funcionalidade téc
 
 ## 📱 Tecnologias Utilizadas
 
-- 🧠 React Native
+- ⚛️ React Native
 - 🔗 Expo
 - 🐈‍⬛ GitHub REST API
 - 💻 JavaScript
 - ⚙️ Node.js
+- 🧭 React Navigation
 - 🎨 Estilização com StyleSheet do React Native
 
 ---
@@ -88,8 +89,8 @@ A proposta visual deste projeto foi pensada para ir além da funcionalidade téc
 📁 AppReactNav
 ┣ 📁 .expo
 ┣ 📁 componentes
-┃ ┣ 📁 Evento.js // Código desenvolvido pelo professor em aula anterior.
-┃ ┗ 📁 UsuarioGitHub.js // Código desenvolvido pelo professor em aula anterior.
+┃ ┣ 📄 Evento.js // Código desenvolvido pelo professor em aula anterior.
+┃ ┗ 📄 UsuarioGitHub.js // Código desenvolvido pelo professor em aula anterior.
 ┣ App.js → Arquivo principal e resolução da Atividade proposta.
 ┣ Index.js 
 ┗ README.md → Este documento
